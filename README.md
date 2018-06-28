@@ -11,4 +11,4 @@ Required packages: numpy, scipy, rpy2, statsmodels, sklearn, collections, pandas
 
 The code includes three files: corr_2d_ttest.py, corr_sig.py and fdr.R.
 
-corr_2d_ttest.ipynb is a Jupyter notebook file as an example showing how to use these functions.
+corr_2d_ttest.ipynb is a Jupyter notebook file as an example showing how to use these functions. You can also view this notebook in https://nbviewer.jupyter.org/github/ClimateTools/field_correlation/blob/master/corr_2d_ttest.ipynb.
